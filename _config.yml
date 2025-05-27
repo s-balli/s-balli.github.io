@@ -39,7 +39,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-4825-139X"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Serkan-Balli" # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=34979993100"
 
   # Repositories and software development
