@@ -18,6 +18,9 @@ redirect_from:
 - Machine Learning  
 - Information Systems  
 
+## Awards & Achievements
+- Named among the “World’s Most Influential Scientists” by Elsevier (2023 & 2024)
+
 ## Selected Publications
 1. Ballı S. (2021). Data analysis of COVID-19 pandemic and short-term cumulative case forecasting using machine learning time series methods. Chaos, Solitons & Fractals.  
 2. Balli, S., Sağbaş, E. A., & Peker, M. (2019). Human activity recognition from smart watch sensor data using a hybrid of principal component analysis and random forest algorithm. Measurement and Control.
@@ -25,5 +28,4 @@ redirect_from:
 4. Sağbaş, E. A., Korukoglu, S., & Balli, S. (2020). Stress detection via keyboard typing behaviors by using smartphone sensors and machine learning techniques. Journal of Medical Systems. 
 5. Şahin, U., Ballı, S., & Chen, Y. (2021). Forecasting seasonal electricity generation in European countries under Covid-19-induced lockdown using fractional grey prediction models and machine learning methods. Applied Energy.
 
-## Awards & Achievements
-- Named among the “World’s Most Influential Scientists” by Elsevier (2023 & 2024)
+
