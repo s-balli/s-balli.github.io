@@ -18,13 +18,6 @@ redirect_from:
 - Machine Learning  
 - Information Systems  
 
-## Education
-| Degree           | Field & Institution                                                             | Date          |
-|------------------|---------------------------------------------------------------------------------|---------------|
-| **Ph.D.**        | Computer Engineering, Ege University, Graduate School of Science                | July 2010     |
-| **M.Sc. ** | Statistics and Computer Science, Muğla Sıtkı Koçman University, Graduate School of Science | January 2005 |
-| **B.Sc.**        | Statistics and Computer Science, Muğla Sıtkı Koçman University, Faculty of Science and Letters | June 2001    |
-
 ## Selected Publications
 1. Ballı S. (2021). Data analysis of COVID-19 pandemic and short-term cumulative case forecasting using machine learning time series methods. Chaos, Solitons & Fractals.  
 2. Balli, S., Sağbaş, E. A., & Peker, M. (2019). Human activity recognition from smart watch sensor data using a hybrid of principal component analysis and random forest algorithm. Measurement and Control.
