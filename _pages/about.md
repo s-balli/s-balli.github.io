@@ -19,7 +19,7 @@ redirect_from:
 - Information Systems  
 
 ## Awards & Achievements
-- Named among the “World’s Most Influential Scientists” by Elsevier (2023 & 2024)
+- Named among the “World’s Most Influential Scientists” by Stanford University and Elsevier (2023 & 2024)
 
 ## Selected Publications
 1. Ballı S. (2021). Data analysis of COVID-19 pandemic and short-term cumulative case forecasting using machine learning time series methods. Chaos, Solitons & Fractals.  
