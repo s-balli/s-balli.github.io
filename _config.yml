@@ -28,7 +28,7 @@ author:
   bio              : "Professor of Computer Science"
   location         : # "Earth"
   employer         : #"Red Brick University"
-  uri              : "https://abs.mehmetakif.edu.tr/serkanballi/PersonelDetay" #URL
+  uri              : # "https://abs.mehmetakif.edu.tr/serkanballi/PersonelDetay" #URL
   email            : #"none@example.org" 
 
   # Academic websites
